@@ -47,6 +47,14 @@ minima:
 # Build settings
 theme: minima
 
+repository: "wini3d/minimaj"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  # Name of repository, for use with Staticman
+  # repository: "wini3d/minimaj"
+  branch: "master"
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
